@@ -1,7 +1,4 @@
 [[redirects]]
-  from = "/blog/*"
-  to = "https://hackswift.netlify.app/blog/:splat"
-  status = 200
 
   from = "/blog"
   to = "/blog/index.html"
