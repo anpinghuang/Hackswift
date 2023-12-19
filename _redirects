@@ -1,5 +1,0 @@
-# Redirect requests with .html extension to the same path without .html
-/*.html  /:splat 301!
-
-# If you want to internally rewrite without changing the URL in the browser
-/*.html  /:splat  200
