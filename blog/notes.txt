@@ -1,0 +1,10 @@
+add <script src="navbar.js"></script> at the end of each article
+
+remove navbar like so:
+
+<div class="nav-menu-wrap">
+                    <!-- navbar goes here -->
+</div>
+
+
+### update. I put contents of navbar.js into home.js so now you can just replace .js with home.js
