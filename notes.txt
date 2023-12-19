@@ -3,3 +3,5 @@ go to the script.js from the html file
 remove everything inside createBadge()  function and replace with "return;"
 
 ####### added register button
+
+### added a sub directory @ hackswift.org/blog using nelify.toml file

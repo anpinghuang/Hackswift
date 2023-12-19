@@ -3,5 +3,3 @@
 
 # If you want to internally rewrite without changing the URL in the browser
 /*.html  /:splat  200
-
-/blog/* https://hackswift.netlify.app/blog/:splat 200!
